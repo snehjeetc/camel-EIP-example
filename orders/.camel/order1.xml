@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<orders>
+    <order>
+        <type>Vegetable</type>
+        <quantity>10</quantity>
+    </order>
+
+    <order>
+        <type>fruits</type>
+        <quantity>10</quantity>
+    </order>
+
+    <order>
+        <type>product</type>
+        <quantity>10</quantity>
+    </order>
+
+    <order>
+        <type>pen</type>
+        <quantity>10</quantity>
+    </order>
+    <order>
+        <type>pencil</type>
+        <quantity>20</quantity>
+    </order>
+</orders>
